@@ -1,6 +1,6 @@
 package com.sohan.DocUploader.controller;
 
-import com.sohan.DocUploader.SingleTextUploadService;
+import com.sohan.DocUploader.service.SingleTextUploadService;
 import com.sohan.DocUploader.service.ImageUploadService;
 import com.sohan.DocUploader.service.MultiUploadService;
 import org.springframework.stereotype.Service;
